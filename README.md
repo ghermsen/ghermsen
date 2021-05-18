@@ -24,7 +24,7 @@ Since then, I have been specializing to be a professional increasingly qualified
 
 ## Projects
 
-- **[Rossmann Stores Sales Prediction](https://github.com/ghermsen/rossmann_prediction)** - Project developed to predict the sales amount per store in the next 6 weeks. Project based from a public Kaggle competition, final solution deployed on Heroku and a Telegram Bot created to receive the predictions. (***developing the README.md)
+- **[Rossmann Stores Sales Prediction](https://github.com/ghermsen/rossmann_prediction)** - Project developed to predict the sales amount per store in the next 6 weeks. Project based from a public Kaggle competition, final solution deployed on Heroku and a Telegram Bot created to receive the predictions. (***developing the README.md***)
 
 - **[Exploratory Data Analysis of São Paulo's Policy Murder Reports](https://github.com/ghermsen/sao_paulo_murder_eda)** - Exploratory Data Analysis performed on the homicides data from São Paulo - Brazil
 
